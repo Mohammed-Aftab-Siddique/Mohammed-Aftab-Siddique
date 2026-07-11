@@ -29,7 +29,6 @@ Interests:          Open Source
 
 GitHub:             github.com/Mohammed-Aftab-Siddique
 LinkedIn:           linkedin.com/in/mohammed-siddique-62221517b
-Portfolio:          Coming Soon
 
 ────────────────────────────────────────────────────────────────────────
 
